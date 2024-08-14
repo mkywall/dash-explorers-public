@@ -1,0 +1,4 @@
+redirect_uri: "https://<your-ip>:<port>/dash/auth"
+port:
+gcs_client_id:
+gcs_project_number: 

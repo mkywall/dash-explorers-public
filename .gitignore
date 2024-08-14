@@ -1,0 +1,8 @@
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints
+conf/mkw_local_config.yaml
+conf/main_config.yaml
+assets/*
+__pycache__/*
+*/__pycache
+
