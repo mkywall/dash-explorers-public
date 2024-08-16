@@ -1,0 +1,23 @@
+name: demo-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - flask
+  - plotly
+  - numpy=1.26.0
+  - pandas
+  - pyyaml
+  - dash-bootstrap-components
+  - dash-daq
+  - h5py
+  - igor2
+  - requests
+  - matplotlib
+  - lmfit
+  - pillow
+  - imageio
+  - pydantic=2.0.2
+  - gunicorn
+  - werkzeug
+  - xlrd
